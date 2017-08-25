@@ -5,4 +5,3 @@ function welcomeToMySite() {
 function helloWorld() {
     return "Hello World!";
 };
-
