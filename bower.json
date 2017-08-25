@@ -1,0 +1,22 @@
+{
+  "name": "JeanWebDev",
+  "homepage": "https://github.com/JeanFerreira91/JeanWebDev",
+  "description": "Personal Portfolio",
+  "main": "app.js",
+  "authors": [
+    "JeanFerreira"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mongoose": "^4.11.8",
+    "express": "^4.15.4",
+    "font-awesome": "^4.7.0"
+  }
+}
